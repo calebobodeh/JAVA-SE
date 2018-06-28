@@ -1,0 +1,4 @@
+TEACHERS NAME  ..............john
+ID NUMBER  ..............2
+PHONE NUMBER  ..............2222222
+COURSE ..............dddd
