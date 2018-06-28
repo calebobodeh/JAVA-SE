@@ -1,0 +1,7 @@
+Student's Number: 2934
+Student's Name: Ahmad-Abubakar
+Student's Age: 18
+Student's Nationality: Nigerian
+Student's Speciality: Artificial-Inteligence-Specialist
+
+

@@ -1,0 +1,6 @@
+Student's Number: 1012018001
+Student's Name: Ahmad-Abubakar
+Student's Age: 18
+Student's Nationality: Nigerian
+Student's Speciality: AI-Specialist
+

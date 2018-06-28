@@ -1,0 +1,6 @@
+Student's Number: 65466789
+Student's Name: Teejay
+Student's Age: 23
+Student's Nationality: Naija
+Student's Speciality: Developer
+
